@@ -1,3 +1,7 @@
 save_file/
 __pycache__/
 config.py
+*.sbatch
+*.out
+*.log
+*.txt
